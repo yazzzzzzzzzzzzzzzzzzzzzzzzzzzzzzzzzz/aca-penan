@@ -1,0 +1,25 @@
+<li>
+
+
+
+</li>
+<ol>
+   <table>
+      <caption>Mi primera tabla</caption>
+      <tr>
+      <th>Nombre</th>
+      <th>Edad</th>
+      <th>País</th>
+      </tr>
+      <tr>
+      <td>Juan</td>
+      <td>25</td>
+      <td>España</td>
+      </tr>
+      <tr>
+      <td>María</td>
+      <td>30</td>
+      <td>México</td>
+      </tr>
+      </table>
+</ol>
